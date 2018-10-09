@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">hsowl18mo</string>
+    <string name="app_name">JAPP</string>
+    <string name="Btn_Members">Mitglieder</string>
+    <string name="Btn_Activities">Aktivitäten</string>
+
+    <string name="AddNewMember">Mitglied hinzufügen</string>
+    <string name="InactiveMember">alte Mitglied</string>
+
+    <string name="Btn_Save">Speichern</string>
 </resources>
